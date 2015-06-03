@@ -1,2 +1,3 @@
 # config_ranger
-my configuration of ranger
+
+My configuration of ranger
